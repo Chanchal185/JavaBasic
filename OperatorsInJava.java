@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class OperatorsInJava {
+public class ArithmeticOperatorInJava {
     public static void main(String[] args) {
         // using Airthmatic operator
         Scanner sc = new Scanner(System.in);
